@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+
 
 import java.util.*;
 import java.util.concurrent.ArrayBlockingQueue;
