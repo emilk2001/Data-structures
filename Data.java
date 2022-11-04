@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+
 
 public class Data {
 
